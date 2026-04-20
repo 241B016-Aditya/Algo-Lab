@@ -1,1 +1,1 @@
-# Algo-Lab-1
+# Algo-Lab
